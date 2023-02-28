@@ -1,0 +1,9 @@
+Michael Trani 5/3/20
+Pretty straight forward.
+Adds variables names to an array of a new class.
+Keeps track of name, line number, and scope.
+I built it for multiple scopes but reduced to global-only to fit requirements.
+
+Other changes: cleaned up previous code and fixed some minor parser errors.
+
+
